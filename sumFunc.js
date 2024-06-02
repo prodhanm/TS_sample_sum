@@ -8,10 +8,10 @@ var total2 = function (a, b) {
     return a + b;
 };
 
-console.log(total2(30, 20))
+console.log(total2(20, 30));
 
 var total3 = function (a, b) {
     return a + b;
 };
 
-console.log(total3(40, 20));
+console.log(total3(30, 20));
